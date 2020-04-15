@@ -1,4 +1,4 @@
-Sorting Algorithm
+Sorting Algorithm on Arrays
 
     1. Adaptive heap sort
     2. Adaptive sort
@@ -48,3 +48,22 @@ Sorting Algorithm
     46. tim sort
     47. tournament sort
     48. tree sort
+    50. recursive bubble sort
+    51. recursive insertion sort
+    52. iterative merge sort
+    53. Iterativee quick sort
+    54. Strand sort
+    55. Binary insertion sort
+    56. Bogosort or Permutation sort
+    57. Sleep sort
+    58. Structure sorting
+    59. tag sort
+    60. Cartesian tree sort
+    61. 3-way quick sort
+    62. 3-way merge sort
+    
+    
+    
+    
+    
+    
